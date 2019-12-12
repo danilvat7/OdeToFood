@@ -22,6 +22,9 @@
     <Folder Include="Views\Home\" />
     <Folder Include="Services\" />
     <Folder Include="ViewModels\" />
+    <Folder Include="Views\Shared\" />
+    <Folder Include="ViewComponents\" />
+    <Folder Include="Views\Shared\Components\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\index.html" />
